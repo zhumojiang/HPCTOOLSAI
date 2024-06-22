@@ -1,0 +1,2 @@
+/mnt/netapp2/Store_uni/home/ulc/cursos/curso349/mytorchdist/lib/python3.11/site-packages/torch/nn/parallel/_functions.py:68: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
